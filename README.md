@@ -1,12 +1,6 @@
-### ¡Bienvenido!
+# ¡Bienvenido!
 
-Hola, mi nombre es ***Jaimgreg Ternero***
+Hola, mi nombre es **Jaimgreg Ternero**. Programador con formación en ciberseguridad y experiencia en gestión de atención al cliente y logística. 
+Soy un autodidacta apasionado por la tecnología, con sólidas habilidades en comunicación y trabajo en equipo.
 
-Soy un estudiante de programación en *42Málaga*.
-Me encanta aprender sobre nuevas tecnologías y herramientas.
-
-Te invito a que eches un vistazo a mis repositorios. 
-En ellos podras encontrar mas información acerca de su funcionalidad y requisitos. 
-
-
-
+Te invito a que explores mis repositorios en GitHub. En ellos, podrás encontrar más información sobre la funcionalidad y los requisitos de mis proyectos.
