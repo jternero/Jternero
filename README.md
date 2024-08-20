@@ -1,12 +1,11 @@
-# Welcome / ¡Bienvenido!
 
-## ENGLISH
+## Welcome
 
 Hello, my name is **Jaimgreg Ternero**. I'm a programmer with a background in cybersecurity, customer service management, and logistics. I'm a passionate self-learner in the world of technology, and I bring strong communication and teamwork skills to the table.
 
 Feel free to explore my repositories on GitHub. In them, you will find more information about the functionality and requirements of my projects.
 
-## ESPAÑOL
+## ¡Bienvenido!
 
 Hola, mi nombre es **Jaimgreg Ternero**. Soy programador con formación en ciberseguridad y experiencia en gestión de atención al cliente y logística. Soy un autodidacta apasionado por la tecnología, con sólidas habilidades en comunicación y trabajo en equipo.
 
